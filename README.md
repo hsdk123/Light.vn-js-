@@ -27,6 +27,6 @@ nw.exeのMac版を必要としますので、[こちら](http://nwjs.io/)でダ�
 
 [http-server](https://github.com/nodeapps/http-server) 等のサーバープログラムを利用してブラウザーでノベルをプレイ出来ます。 
 
-####[ モバイル対応 ]
+####[ モバイル機器使用の場合 ]
 
 ブラウザーを通じてプレイする事も可能ですが、[Cordova](http://cordova.apache.org/)等を利用してちゃんとしたアプリとしてパッケージングし、自分の機器で直接プレイしたり、Google, iStore 等にアップし公開することも可能です。 
